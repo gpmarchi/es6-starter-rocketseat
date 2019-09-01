@@ -10,6 +10,8 @@ class App {
   }
 
   registerHandlers() {
+    // arrow function somente 1 parâmetro sem parenteses e sem function, apenas
+    // uma linha no corpo não precisa de chaves
     this.formElem.onsubmit = event => this.addRepository(event);
   }
 
