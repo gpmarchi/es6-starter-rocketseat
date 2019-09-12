@@ -60,5 +60,8 @@ typings/
 # next.js build output
 .next
 
-# vscode settings
+# macos
+.DS_Store
+
+# vscode
 .vscode
