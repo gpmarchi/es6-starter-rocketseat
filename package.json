@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/gpmarchi/es6-starter-rocketseat#readme",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
